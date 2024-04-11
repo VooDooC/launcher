@@ -1,3 +1,1 @@
-https://cdn.l2exclusive.ru/update.json
-https://cdn.l2exclusive.ru/update_mirror.json
-https://cdn.l2exclusive.ru/update_mirror_2.json
+https://cdn.l2exclusive.ru/Clients/{version}/update.json
